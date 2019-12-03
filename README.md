@@ -10,7 +10,7 @@ Brooklyn College - Fall 2019 - Assignment 3 for CISC 3130
   ```java
   HashMap<String, Integer> wordCount = new HashMap<String, Integer>();
   ```
-where ```String</i>``` represents the word, and ```Integer``` represents the numeric value for each word.
+where ```String``` represents the word, and ```Integer``` represents the numeric value for each word.
 </p>
 
 <p>The attraction of using the HashMap is that by using a ```String``` key and an ```Integer``` value, each String can be stored, and a tally of its occurence incremented by determining if a given key already exists, and simply incrementing its value.</p>
