@@ -1,7 +1,7 @@
 # lyric-word-count
 Brooklyn College - Fall 2019 - Assignment 3 for CISC 3130
 
-<p1>Lyric Word Count<p1>
+<h1>Lyric Word Count</h1>
 
 <p>This JAVA program uses a HashMap to count the occurences of each words that appears in Ariana Grande's song <quote>Thank U, Next</quote>.</p>
 
@@ -19,4 +19,4 @@ where ```String</i>``` represents the word, and ```Integer``` represents the num
 
 <!-- think about some things youd change - think in terms of effenciency, methods youd use instead of cramming everything into one long program --!>
 
-<p2>Some Information About the Chosen Song</p2>
+<h2>Some Information About the Chosen Song</h2>
