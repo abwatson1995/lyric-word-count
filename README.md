@@ -13,7 +13,7 @@ Brooklyn College - Fall 2019 - Assignment 3 for CISC 3130
 where ```String``` represents the word, and ```Integer``` represents the numeric value for each word.
 </p>
 
-<p>The attraction of using the HashMap is that by using a ```String``` key and an ```Integer``` value, each String can be stored, and a tally of its occurence incremented by determining if a given key already exists, and simply incrementing its value.</p>
+<p>```java``` The attraction of using the HashMap is that by using a ```String``` key and an ```Integer``` value, each String can be stored, and a tally of its occurence incremented by determining if a given key already exists, and simply incrementing its value.</p>
 
 <!-- I didn't do the visualization part, that info goes here where I get around to it--!>
 
@@ -24,6 +24,6 @@ where ```String``` represents the word, and ```Integer``` represents the numeric
 <p>Ariana Grande's <quote>Thank U, Next</quote> was realeased on November 3, 2018 shortly after the end of the singer's engagement to comedian Pete Davidson and the death of her ex-boyfriend, Mac Miller. The song is less of a diss track and more of a celebration of the lessons learned from experiencing life, love and loss.</p>
 
 <p>Aside from being an Ariana Grande fan, I chose to analyze this song for two reasons:
-  - The lyrics are repetitive, particularly in the hook
-  - I was interested in determining if the frequency of the song's three main words ("thank", "you", and "next") appeared in equal frequencies since they were the most frequently grouped words.
+*The lyrics are repetitive, particularly in the hook
+*I was interested in determining if the frequency of the song's three main words ("thank", "you", and "next") appeared in equal frequencies since they were the most frequently grouped words.
 </p>
