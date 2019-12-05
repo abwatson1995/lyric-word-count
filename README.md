@@ -29,6 +29,5 @@ where ```String``` represents the word, and ```Integer``` represents the numeric
     <li>The lyrics are repetitive, particularly in the hook </li>
     <li>I was interested in determining if the frequency of the song's three main words ("thank", "you", and "next") appeared in equal frequencies since they were the most frequently grouped words.</li>
   </u>
-  </p>
-  
 <p>Oddly enough, the song's title words do not appear with equal frequecy. In fact, the word "next" occured 42 times, with "you" and "next" appearing 38 and 37 times respectfully.</p>
+</p>
