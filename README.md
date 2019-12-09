@@ -1,6 +1,3 @@
-# lyric-word-count
-Brooklyn College - Fall 2019 - Assignment 3 for CISC 3130
-
 <h1>Lyric Word Count</h1>
 
 <p>This Java program uses a HashMap to count the occurences of each words that appears in Ariana Grande's song "Thank U, Next".</p>
@@ -16,9 +13,7 @@ where ```String``` represents the word, and ```Integer``` represents the numeric
 <h2>Why Use a HashMap?</h2>
 <p>The attraction of using the HashMap is that by using a String key and an Integer value, each String can be stored, and a tally of its occurence incremented by determining if a given key already exists, and simply incrementing its value.</p>
 
-<!-- I didn't do the visualization part, that info goes here when I do it--!>
-
-<!-- think about some things youd change - think in terms of effenciency, methods youd use instead of cramming everything into one long program etc etc--!>
+<p>With time cosnstraints removed, my approach to generating this program would have been quite different. Following along a more organized approach, I would have created a readWords() method to read from the file to improve readability. Next, I would create a wordCount method which would perform the "check" of each word against existing keys and increase the count for that key as necessary, again to improve readability and organization.</p>
 
 <h2>Some Information About the Chosen Song</h2>
 
