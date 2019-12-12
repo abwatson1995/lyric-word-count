@@ -29,3 +29,6 @@ where ```String``` represents the word, and ```Integer``` represents the numeric
 </p>
 
 <p>Interestingly, the song's title words do not appear with equal frequecy. In fact, the word "next" occured 42 times, with "you" and "next" appearing 38 and 37 times, respectfully.</p>
+
+<p>Lyrics from LyricFind</p>
+<p>Image created using the Kumo Library</p>
