@@ -15,6 +15,8 @@ where ```String``` represents the word, and ```Integer``` represents the numeric
 
 <p>With time cosnstraints removed, my approach to generating this program would have been quite different. Following along a more organized approach, I would have created a readWords() method to read from the file to improve readability. Next, I would create a wordCount method which would perform the "check" of each word against existing keys and increase the count for that key as necessary, again to improve readability and organization.</p>
 
+![Original Image](https://github.com/abwatson1995/lyric-word-count/blob/master/Assignment%203/agimage.png?raw=true)
+
 ![Word Cloud of Thank U, Next, Created using the Kumo Library](https://github.com/abwatson1995/lyric-word-count/blob/master/Assignment%203/Aout.png?raw=true)
 
 <h2>Some Information About the Chosen Song</h2>
